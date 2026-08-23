@@ -1,8 +1,12 @@
-# Seja bem vindo meu nome é **Thiago Sousa**
+<div align="center">
+  <img src="./assets/data_ai_engineer_banner.png" width="100%" alt="Thiago Sousa - Data Engineer & AI" />
+</div>
 
-### Engenheiro de Dados & Arquiteto de Soluções Analíticas | AWS & Lakehouse
+# Seja bem-vindo! Meu nome é **Thiago Sousa**
 
-Com mais de 7 anos de experiência unindo dados e tecnologia, atuo como Engenheiro de Dados focado em transformar ecossistemas operacionais complexos em ativos analíticos de alta performance.
+### Engenheiro de Dados & IA | AWS & Lakehouse
+
+Com mais de 7 anos de experiência unindo dados e tecnologia, atuo como Engenheiro de Dados focado em transformar ecossistemas operacionais complexos em ativos analíticos e pipelines de IA de alta performance.
 
 Minha atuação é centrada na modernização de arquiteturas de dados em nuvem (AWS), projetando pipelines de ingestão e transformação (ELT) robustos e adotando a **Arquitetura Medalhão** para garantir escalabilidade e qualidade da informação. Lidero desde a concepção da infraestrutura até a entrega da última milha, desenvolvendo produtos de dados proprietários com Python, segurança integrada (SSO/RBAC) e dashboards estratégicos em Power BI.
 
@@ -14,8 +18,8 @@ Combino rigor técnico de engenharia com foco cirúrgico em eficiência de proce
 
 * 🌍 **Localização:** Santo André, São Paulo, Brasil
 * ✉️ **Contato:** [tss.sousa@gmail.com](mailto:tss.sousa@gmail.com)
-* 🧠 **Atualmente aprofundando:** Apache Spark, Databricks e Práticas Avançadas de DataOps (CI/CD para Dados)
-* ⚡ **Foco:** Transformar dados brutos operacionais em camadas Gold de alto valor de negócio.
+* 🧠 **Atualmente aprofundando:** Apache Spark, Databricks e Práticas Avançadas de DataOps (CI/CD para Dados e IA)
+* ⚡ **Foco:** Transformar dados brutos operacionais em camadas Gold e ativos prontos para IA.
 
 ---
 
